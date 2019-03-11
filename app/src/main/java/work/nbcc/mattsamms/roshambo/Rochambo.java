@@ -1,4 +1,8 @@
-
+/**
+ * Matthew Samms
+ * NBCC
+ */
+package work.nbcc.mattsamms.roshambo;
 
 import java.util.Random;
 
@@ -85,6 +89,5 @@ public class Rochambo {
 
         return DRAW; //shouldn't get here
     }
-
 
 }

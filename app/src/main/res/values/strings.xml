@@ -1,3 +1,13 @@
+<!--Matthew Samms - NBCC-->
 <resources>
     <string name="app_name">Roshambo</string>
+    <string name="display_winner_text">Welcome!</string>
+    <string name="paper_button">paperbutton</string>
+    <string name="comp_image">compimg</string>
+    <string name="rock_button">rockbutton</string>
+    <string name="scissor_button">scissorbutton</string>
+    <string name="player_image">player</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="draw">DRAW</string>
 </resources>
